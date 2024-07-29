@@ -11,3 +11,14 @@ query = data[n + 2:]
 
 ###---code for write out output in command line---###
 sys.stdout.write('\n'.join(map(str, ["this", "is", "results"])) + '\n')
+
+
+
+####-----------------use IO.StringIO for write you input to the input function-------------------###
+import sys
+from io import StringIO
+sys.stdin = StringIO("""5
+1 2 3 4 5
+223232 23 23""")
+print(input())
+print(f"the second:{input()}")
