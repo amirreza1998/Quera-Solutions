@@ -1,5 +1,5 @@
-import threading
 import queue
+import threading
 import time
 
 
@@ -23,8 +23,6 @@ def process_input(input_queue):
     line = input_queue.get()
     if line is None:
         return False
-
-
 
     ###---------your code----------###
     n, q = map(int, line.split(" "))
