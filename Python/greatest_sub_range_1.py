@@ -19,8 +19,9 @@ a = [int(x) for x in input().split()]
 ans = -10**9
 ###-------you could use below code for ans instead of specify it hard code---------###
 # import sys
-# ans = -sys.maxsize-1
-
+# ans = -(sys.maxsize-1)
+###-----or you could use below code------###
+# ans = float('-inf')
 
 for r in range(1, n + 1):
     for l in range(r):
