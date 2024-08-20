@@ -17,6 +17,7 @@
 | 48471  | semi ordered                    | [نیمه مرتب](https://quera.org/college/3016/chapter/8233/lesson/48471/)            | [C++](./C++/semi_ordered.cpp) [Python](./Python/semi_ordered.py)                                       | _O(n)_                     | _O(1)_     | Easy   | List Sorting   |
 | 146667 | counting triangle 1             | [شمارش مثلث‌ها ۱](https://quera.org/college/3016/chapter/8233/lesson/146667/)     | [C++](./C++/counting_triangle_1.cpp) [Python](./Python/counting_triangle_1.py)                         | _O(n)_                     | _O(1)_     | Easy   | List Sorting   |
 | 60800  | counting triangle 2             | [شمارش مثلث‌ها ۲](https://quera.org/college/3016/chapter/8233/lesson/60800/)      | [C++](./C++/counting_triangle_2.cpp) [Python](./Python/counting_triangle_2.py)                         | _O(n)_                     | _O(1)_     | Easy   | List Sorting   |
+| 34365  | counting triangle 3             | [شمارش مثلث‌ها ۳](https://quera.org/college/3016/chapter/8233/lesson/34365/)      | [C++](./C++/counting_triangle_3.cpp) [Python](./Python/counting_triangle_3.py)                         | _O(n)_                     | _O(1)_     | Hard   | List Sorting   |
 | 242159 | bubble sort                     | [مرتب سازی حبابی](https://quera.org/college/3016/chapter/8233/lesson/242159/)     | [C++](./C++/bubble_sort.cpp) [Python](./Python/bubble_sort.py)                                         | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting   |
 
 
