@@ -20,6 +20,8 @@
 | 60800  | counting triangle 2             | [شمارش مثلث‌ها ۲](https://quera.org/college/3016/chapter/8233/lesson/60800/)      | [C++](./C++/counting_triangle_2.cpp) [Python](./Python/counting_triangle_2.py)                         | _O(n)_                     | _O(1)_     | Easy   | List Sorting   |
 | 34365  | counting triangle 3             | [شمارش مثلث‌ها ۳](https://quera.org/college/3016/chapter/8233/lesson/34365/)      | [C++](./C++/counting_triangle_3.cpp) [Python](./Python/counting_triangle_3.py)                         | _O(n)_                     | _O(1)_     | Hard   | List Sorting   |
 | 242159 | bubble sort                     | [مرتب سازی حبابی](https://quera.org/college/3016/chapter/8233/lesson/242159/)     | [C++](./C++/bubble_sort.cpp) [Python](./Python/bubble_sort.py)                                         | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting   |
+| 146671 | selection sort                  | [مرتب سازی انتخابی](https://quera.org/college/3016/chapter/8234/lesson/146671/)   | [C++](./C++/selection_sort.cpp) [Python](./Python/selection_sort.py)                                      | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting   |
+
 
 
 
