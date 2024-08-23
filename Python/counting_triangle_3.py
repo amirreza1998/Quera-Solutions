@@ -25,3 +25,8 @@ for a in range(1, n//3 + 1):
         c = n - b - a
         ordred_list.append(tuple(sorted([a, b, c])))
 print(len(list(set(ordred_list))))
+
+
+### The first loop will condition on the value of a. We know that a <= b <= c and a + b + c = n.
+### Therefore, a must be <= n/3. (For contradiction proof, suppose a > n/3, in this case a,b,c > n/3,
+### so a + b + c = n > n, which is a contradiction.) So the value of a is in the range of 1 to n/3 is located
