@@ -22,8 +22,11 @@
 | 242159 | bubble sort                     | [مرتب سازی حبابی](https://quera.org/college/3016/chapter/8233/lesson/242159/)     | [C++](./C++/bubble_sort.cpp) [Python](./Python/bubble_sort.py)                                         | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting         |
 | 146671 | selection sort                  | [مرتب سازی انتخابی](https://quera.org/college/3016/chapter/8234/lesson/146671/)   | [C++](./C++/selection_sort.cpp) [Python](./Python/selection_sort.py)                                   | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting         |
 | 34367 | insertion sort                  | [مرتب سازی درجی](https://quera.org/college/3016/chapter/8234/lesson/34367/)       | [C++](./C++/insertion_sort.cpp) [Python](./Python/insertion_sort.py)                                   | _O(n<sup>2</sup>)_         | _O(1)_     | Easy   | List Sorting         |
-| 34367 | greatest sub range 3            | [بزرگ‌ترین زیربازه ۳](https://quera.org/college/3016/chapter/8234/lesson/150067/) | [C++](./C++/greatest_sub_range_3.cpp) [Python](./Python/greatest_sub_range_3.py)                       | _O(n)_         | _O(n)_     | Easy   | List Sorting         |
-| 34367 | horner algorithm                | [الگوریتم هورنر](https://quera.org/college/3016/chapter/8234/lesson/150069/)      | [C++](./C++/horner.cpp) [Python](./Python/horner.py)                                     | _O(n)_         | _O(1)_     | Easy   | numberical algorithm |
+| 150067 | greatest sub range 3            | [بزرگ‌ترین زیربازه ۳](https://quera.org/college/3016/chapter/8234/lesson/150067/) | [C++](./C++/greatest_sub_range_3.cpp) [Python](./Python/greatest_sub_range_3.py)                       | _O(n)_                     | _O(n)_     | Easy   | List Sorting         |
+| 150069 | horner algorithm                | [الگوریتم هورنر](https://quera.org/college/3016/chapter/8234/lesson/150069/)      | [C++](./C++/horner.cpp) [Python](./Python/horner.py)                                                   | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
+| 48470 | sum of digits                   | [مجموع ارقام](https://quera.org/college/3016/chapter/8234/lesson/48470/)          | [C++](./C++/sum_of_digits.cpp) [Python](./Python/sum_of_digits.py)                                     | _O(log(n))_                | _O(1)_     | Easy   | numberical algorithm |
+| 27761 | recursive sequence              | [دنباله بازگشتی](https://quera.org/college/3016/chapter/8235/lesson/27761/)       | [C++](./C++/recursive_sequence.cpp) [Python](./Python/recursive_sequence.py)                                | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
+
 
 
 
