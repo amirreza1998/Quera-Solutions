@@ -25,7 +25,9 @@
 | 150067 | greatest sub range 3            | [بزرگ‌ترین زیربازه ۳](https://quera.org/college/3016/chapter/8234/lesson/150067/) | [C++](./C++/greatest_sub_range_3.cpp) [Python](./Python/greatest_sub_range_3.py)                       | _O(n)_                     | _O(n)_     | Easy   | List Sorting         |
 | 150069 | horner algorithm                | [الگوریتم هورنر](https://quera.org/college/3016/chapter/8234/lesson/150069/)      | [C++](./C++/horner.cpp) [Python](./Python/horner.py)                                                   | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
 | 48470 | sum of digits                   | [مجموع ارقام](https://quera.org/college/3016/chapter/8234/lesson/48470/)          | [C++](./C++/sum_of_digits.cpp) [Python](./Python/sum_of_digits.py)                                     | _O(log(n))_                | _O(1)_     | Easy   | numberical algorithm |
-| 27761 | recursive sequence              | [دنباله بازگشتی](https://quera.org/college/3016/chapter/8235/lesson/27761/)       | [C++](./C++/recursive_sequence.cpp) [Python](./Python/recursive_sequence.py)                                | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
+| 27761 | recursive sequence              | [دنباله بازگشتی](https://quera.org/college/3016/chapter/8235/lesson/27761/)       | [C++](./C++/recursive_sequence.cpp) [Python](./Python/recursive_sequence.py)                           | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
+| 27761 | gcd                             | [ب.م.م](https://quera.org/college/3016/chapter/8235/lesson/150086/)               | [C++](./C++/gcd.cpp) [Python](./Python/gcd.py)                                                         | _O(log(a+b))_                     | _O(1)_     | Easy   | numberical algorithm |
+
 
 
 
