@@ -27,6 +27,8 @@
 | 48470 | sum of digits                   | [مجموع ارقام](https://quera.org/college/3016/chapter/8234/lesson/48470/)          | [C++](./C++/sum_of_digits.cpp) [Python](./Python/sum_of_digits.py)                                     | _O(log(n))_                | _O(1)_     | Easy   | numberical algorithm |
 | 27761 | recursive sequence              | [دنباله بازگشتی](https://quera.org/college/3016/chapter/8235/lesson/27761/)       | [C++](./C++/recursive_sequence.cpp) [Python](./Python/recursive_sequence.py)                           | _O(n)_                     | _O(1)_     | Easy   | numberical algorithm |
 | 27761 | gcd                             | [ب.م.م](https://quera.org/college/3016/chapter/8235/lesson/150086/)               | [C++](./C++/gcd.cpp) [Python](./Python/gcd.py)                                                         | _O(log(a+b))_                     | _O(1)_     | Easy   | numberical algorithm |
+| 27762 | hanoi tower                     | [برج هانوی](https://quera.org/college/3016/chapter/8235/lesson/27762/)            | [C++](./C++/hanoi_tower.cpp) [Python](./Python/hanoi_tower.py)                                                         | _O(2<sup>n</sup>)_                     | _O(1)_     | Medium | recursive algorithm  |
+
 
 
 
